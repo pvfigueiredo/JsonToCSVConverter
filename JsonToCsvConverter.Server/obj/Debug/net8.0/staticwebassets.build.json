@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "N2uvUN4VZD2eoN0QICA63gw4Gm9v0fcbarb0S53Kgf0=",
+  "Source": "JsonToCsvConverter.Server",
+  "BasePath": "_content/JsonToCsvConverter.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Dev\\Yardim\\JsonToCsvConverter\\jsontocsvconverter.client\\jsontocsvconverter.client.esproj",
+      "Version": 2,
+      "Source": "jsontocsvconverter.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

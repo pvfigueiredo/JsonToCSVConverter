@@ -1,0 +1,1 @@
+C:\Dev\Yardim\JsonToCsvConverter\jsontocsvconverter.client\obj\Debug\jsontocsvconverter.client.esproj.CoreCompileInputs.cache
